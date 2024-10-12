@@ -68,5 +68,3 @@ Here’s a list of AWS services categorized by some fun and creative criteria:
 - **AWS IAM**: Identity and Access Management, but you might think it’s “I am” until you read further.
 - **AWS ECS**: Elastic Container Service; sounds simple but really means container management.
 - **Amazon VPC**: Virtual Private Cloud, but it sounds like it could be a video platform or something similar.
-
-These categories make AWS services a little more fun to explore, highlighting the creativity behind their names!
