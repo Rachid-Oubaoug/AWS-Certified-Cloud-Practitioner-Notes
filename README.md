@@ -8,11 +8,14 @@ This repository is designed to help you better understand and remember AWS servi
    - **Description**: AWS services can sometimes be challenging to remember and differentiate. In this file, AWS services are grouped by creative and unconventional criteria, such as mythology-inspired names, funny or pun-ready names, and services that share words like "Elastic."
    - **Purpose**: Use this file to get a unique and memorable perspective on various AWS services!
 
-### 2. [Interactions Between AWS Storage Services](Interactions%20Between%20AWS%20Storage%20Services.png)
+### 2. **Interactions Between AWS Services**
+   - This section includes diagrams illustrating the interactions between various AWS services in different categories.
+
+#### 2.1 [Storage Services](Interactions%20Between%20AWS%20Storage%20Services.png)
    - **Description**: This diagram illustrates how different AWS storage services, such as Amazon S3, EBS, EFS, and Glacier, interact with each other and with other AWS services.
    - **Purpose**: Use this visual to understand the relationships and use cases for AWS storage services.
 
-### 3. [Interactions Between AWS CI/CD Services](Interactions%20Between%20AWS%20CI_CD%20Services.png)
+#### 2.2 [Interactions Between AWS CI/CD Services](Interactions%20Between%20AWS%20CI_CD%20Services.png)
    - **Description**: A diagram that maps out the interactions between AWS CI/CD services, including CodeCommit, CodeBuild, CodePipeline, and CodeDeploy.
    - **Purpose**: Refer to this image to understand the CI/CD workflow in AWS and how these services integrate to support continuous integration and deployment.
 
