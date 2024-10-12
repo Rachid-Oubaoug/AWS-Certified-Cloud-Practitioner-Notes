@@ -7,7 +7,7 @@ This repository is designed to help you better understand and remember AWS servi
 ### 1. [Creative Categorization of AWS Services](Creative%20AWS%20Services%20Categorization.md)
    - **Description**: AWS services can sometimes be challenging to remember and differentiate. In this document, AWS services are grouped by creative and unconventional criteria.
 
-### 2. Interactions Between AWS Services
+### 2. Interactions Between AWS Services (flowchart is better)
    - **Description**: This section includes diagrams illustrating the interactions between various AWS services in different categories:
 
       - [Storage Services](Interactions%20Between%20AWS%20Storage%20Services.png): Use this visual to understand the relationships and use cases for AWS storage services.
