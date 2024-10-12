@@ -5,7 +5,7 @@ Welcome to the AWS Services Exploration repository! This repository is designed 
 
 ## Contents
 
-### 1. [Creative Categorization of AWS Services](creative aws service categories.md)
+### 1. [Creative Categorization of AWS Services](Creative%20AWS%20Services%20Categorization.md)
    - **Description**: AWS services can sometimes be challenging to remember and differentiate. In this file, AWS services are grouped by creative and unconventional criteria, such as mythology-inspired names, funny or pun-ready names, and services that share words like "Elastic."
    - **Purpose**: Use this file to get a unique and memorable perspective on various AWS services!
 
