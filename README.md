@@ -8,7 +8,7 @@ This repository is designed to help you better understand and remember AWS servi
    - **Description**: AWS services can sometimes be challenging to remember and differentiate. In this document, AWS services are grouped by creative and unconventional criteria.
 
 ### 2. **Interactions Between AWS Services**
-   - This section includes diagrams illustrating the interactions between various AWS services in different categories:
+   - **Description**: This section includes diagrams illustrating the interactions between various AWS services in different categories:
 
    #### 2.1 [Storage Services](Interactions%20Between%20AWS%20Storage%20Services.png) : This diagram illustrates how different AWS storage services, such as Amazon S3, EBS, EFS, and Glacier, interact with each other.
 
