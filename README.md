@@ -3,10 +3,10 @@
 This repository is designed to help you better understand and remember AWS services through creative categorizations, diagrams, and mind maps. Here’s an overview of the content available:
 
 ### 1. [Creative Categorization of AWS Services](Creative%20AWS%20Services%20Categorization.md)
-   <!--- **Description**: AWS services can sometimes be challenging to remember and differentiate. In this document, AWS services are grouped by creative and unconventional criteria.-->
+   **Description**: AWS services can sometimes be challenging to remember and differentiate. In this document, AWS services are grouped by creative and unconventional criteria.
 
 ### 2. Interactions Between AWS Services
-   <!--- **Description**: This section includes diagrams illustrating the interactions between various AWS services in different categories:-->
+   **Description**: This section includes diagrams illustrating the interactions between various AWS services in different categories:
 
    - [Compute Services](/Assets/Interactions%20Between%20AWS%20Compute%20Services.png)
    - [Storage Services](/Assets/Interactions%20Between%20AWS%20Storage%20Services.png)
@@ -24,8 +24,9 @@ This repository is designed to help you better understand and remember AWS servi
    - [Pricing, Billing, and Support Services](/Assets/Interactions%20Between%20AWS%20Pricing%2C%20Billing%2C%20and%20Support%20Services.png)
 
 ### 3. [AWS Services with Explanations MindMap](/Assets/AWS%20Services%20with%20Explanations%20MindMap.png)
-   <!---- **Description**: This mind map provides a visual overview of various AWS services, organized by categories such as compute, storage, networking, and more, with brief explanations for each.-->
+   **Description**: This mind map provides a visual overview of various AWS services, organized by categories such as compute, storage, networking, and more, with brief explanations for each.
 
 ### 4. Cheat Sheets
+   **Description**: For quick reference, this section includes links to concise cheat sheets summarizing various AWS services and topics.
    - [AWS Services](https://cybr.com/wp-content/uploads/2024/05/aws-security-services-specialty-certification-v3-scaled.jpeg)
    - [AWS Security Services](https://cybr.com/wp-content/uploads/2023/10/aws-security-services-v3-scaled.jpeg)
