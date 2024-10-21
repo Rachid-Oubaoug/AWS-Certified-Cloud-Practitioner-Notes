@@ -1,8 +1,6 @@
 # AWS Cloud Practitioner Study Notes (CLF-C02)
 
-This repository is designed to help you better understand and remember AWS services through creative categorizations, diagrams, and mind maps. Here’s an overview of the content available in this repository:
-
-## Contents
+This repository is designed to help you better understand and remember AWS services through creative categorizations, diagrams, and mind maps. Here’s an overview of the content available:
 
 ### 1. [Creative Categorization of AWS Services](Creative%20AWS%20Services%20Categorization.md)
    <!--- **Description**: AWS services can sometimes be challenging to remember and differentiate. In this document, AWS services are grouped by creative and unconventional criteria.-->
