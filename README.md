@@ -17,6 +17,6 @@ This repository is designed to help you better understand and remember AWS servi
 ### 3. [AWS Services with Explanations MindMap](AWS%20Services%20with%20Explanations%20MindMap.png)
    - **Description**: This mind map provides a visual overview of various AWS services, organized by categories such as compute, storage, networking, and more, with brief explanations for each.
 
-### 3. [Cheat Sheets](AWS%20Services%20with%20Explanations%20MindMap.png)
+### 3. [Cheat Sheets]
    - [AWS Services](https://cybr.com/wp-content/uploads/2024/05/aws-security-services-specialty-certification-v3-scaled.jpeg)
    - [AWS Security Services](https://cybr.com/wp-content/uploads/2023/10/aws-security-services-v3-scaled.jpeg)
