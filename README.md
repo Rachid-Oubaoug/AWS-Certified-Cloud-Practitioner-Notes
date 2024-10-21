@@ -23,7 +23,7 @@ This repository is designed to help you better understand and remember AWS servi
    - [Security, Compliance, and Governance Services](/Assets/Interactions%20Between%20AWS%20Security%2C%20Compliance%2C%20and%20Governance%20Services.png)
    - [Pricing, Billing, and Support Services](/Assets/Interactions%20Between%20AWS%20Pricing%2C%20Billing%2C%20and%20Support%20Services.png)
 
-### 3. [AWS Services with Explanations MindMap](AWS%20Services%20with%20Explanations%20MindMap.png)
+### 3. [AWS Services with Explanations MindMap](/Assets/AWS%20Services%20with%20Explanations%20MindMap.png)
    <!---- **Description**: This mind map provides a visual overview of various AWS services, organized by categories such as compute, storage, networking, and more, with brief explanations for each.-->
 
 ### 4. Cheat Sheets
