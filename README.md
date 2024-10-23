@@ -31,3 +31,4 @@ This repository is designed to help you better understand and remember AWS servi
    - [AWS Services](https://cybr.com/wp-content/uploads/2024/05/aws-security-services-specialty-certification-v3-scaled.jpeg)
    - [AWS Security Services](https://cybr.com/wp-content/uploads/2023/10/aws-security-services-v3-scaled.jpeg)
    - [Consolidated List Of All AWS Products And Solutions](https://www.peterleiser.com/technology/cloud/aws/2020/10/29/Consolidated-AWS-Product-List.html)
+   - [AWS Cloud Practitioner Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/)
